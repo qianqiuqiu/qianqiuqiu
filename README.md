@@ -3,7 +3,7 @@ GitHub Profile README
 Repository name must be exactly your GitHub username.
 -->
 
-<h2 align="center">Hi there, I'm <铅秋> 👋</h2>
+<h2 align="center">Hi there, I'm 铅秋 👋</h2>
 
 <p align="center">
   <i>Undergraduate @ Sichuan University (Class of 2021) · Master @ Peking University (Class of 2025)</i><br/>
@@ -22,7 +22,6 @@ Repository name must be exactly your GitHub username.
 
 - 🎓 **Undergraduate** @ **Sichuan University** (Class of **2021**)  
 - 🎓 **Master** @ **Peking University** (Class of **2025**)  
-- 🔁 Currently **转码** (coding-focused)  
 - 🔬 Research interests: **LLM Agents**, **Digital Circuit Design**  
 - 📫 Contact: **1244883769@qq.com**
 
