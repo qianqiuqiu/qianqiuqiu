@@ -3,11 +3,11 @@ GitHub Profile README
 Repository name must be exactly your GitHub username.
 -->
 
-<h2 align="center">Hi there, I'm <YOUR_NAME> 👋</h2>
+<h2 align="center">Hi there, I'm <铅秋> 👋</h2>
 
 <p align="center">
-  <i>Undergraduate @ Sichuan University (Class of 2021) · MSc Candidate @ Peking University (Class of 2025)</i><br/>
-  <i>Transitioning into Software Engineering · Interested in LLM Agents & Digital Circuit Design</i>
+  <i>Undergraduate @ Sichuan University (Class of 2021) · Master @ Peking University (Class of 2025)</i><br/>
+  <i> Interested in LLM Agents & Digital Circuit Design</i>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@ Repository name must be exactly your GitHub username.
 
 ### About Me
 
-- 🎓 **B.Eng.** @ **Sichuan University** (Class of **2021**)  
-- 🎓 **MSc** @ **Peking University** (Class of **2025**)  
-- 🔁 Currently **transitioning into software engineering** (coding-focused)  
+- 🎓 **Undergraduate** @ **Sichuan University** (Class of **2021**)  
+- 🎓 **Master** @ **Peking University** (Class of **2025**)  
+- 🔁 Currently **转码** (coding-focused)  
 - 🔬 Research interests: **LLM Agents**, **Digital Circuit Design**  
 - 📫 Contact: **1244883769@qq.com**
 
@@ -31,22 +31,6 @@ Repository name must be exactly your GitHub username.
 ### What I'm Working On
 
 - 🤖 Building / exploring **LLM Agent systems** (planning, tool-use, memory, evaluation)
-- 🧠 Reading & implementing papers related to **agent frameworks** and **reasoning**
-- ⚡ Practicing foundations for SWE: **DSA**, **Python/CPP**, and engineering workflows
 - 🔧 Digital design topics: **RTL**, **Verilog/SystemVerilog**, **timing**, and **verification**
 
----
 
-### Tech Stack (in progress)
-
-**Languages**
-- Python · C/C++ · Verilog/SystemVerilog *(learning/using)*
-
-**Tools**
-- Git · Linux · Docker *(learning/using)*
-- VS Code · Jupyter
-
-**Interests**
-- LLM Agent Architectures · Tool-augmented LLMs · Digital IC Design
-
----
