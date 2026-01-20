@@ -3,7 +3,7 @@ GitHub Profile README
 Repository name must be exactly your GitHub username.
 -->
 
-<h2 align="center">Hi there, I'm 铅秋 👋</h2>
+<h2 align="center">Hi there, I'm Qianqiu 👋</h2>
 
 <p align="center">
   <i>Undergraduate @ Sichuan University (Class of 2021) · Master @ Peking University (Class of 2025)</i><br/>
